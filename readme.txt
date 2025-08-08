@@ -109,9 +109,4 @@ Acknowledgements:
 
 Contact:
 ---------
-For questions or support, please contact the developer or project maintainer.
-
-
-============================================================
-                  MAY THE BEST TRAINER WIN! ⚔️🐾
-============================================================
+For questions or support, please contact nityanama101@gmail.com
